@@ -7,7 +7,7 @@ node serv1.js
 serv1.js is the Entry point
  Server generates page on your local IP using port 7000 In your local network.
  
-for exemple: http://192.168.0.2:7000. 
+for exemple: http://localhost:7000. 
 
 It's one long line command input shell
 
