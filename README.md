@@ -11,3 +11,5 @@ for exemple: http://localhost:7000.
 
 It's one long line command input shell
 
+Depencies: Node.js
+
